@@ -1,6 +1,6 @@
 ### Getting-and-Cleaning-data
 
-### INtroduction
+### Introduction
 
 The run_analysis.R script uses data from the Human Activity Recognition Using Smartphones Data Set . A full description of the data used in this project can be found at The UCI Machine Learning Repository
 
